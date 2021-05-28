@@ -14,6 +14,7 @@ const Navbar = (props) => {
     </div>
   );
 };
+
 const styles = {
   cartIcon: {
     height: 32,
@@ -38,4 +39,5 @@ const styles = {
     top: -9,
   },
 };
+
 export default Navbar;

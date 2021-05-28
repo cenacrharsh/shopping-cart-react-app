@@ -40,6 +40,7 @@ class App extends React.Component {
     this.setState({ products });
     //products:products (since key:value same we write once)
   };
+
   handleDecreaseQuantity = (product) => {
     // console.log("decrease this product", product);
     const { products } = this.state;
@@ -51,6 +52,7 @@ class App extends React.Component {
     this.setState({ products });
     //products:products (since key:value same we write once)
   };
+
   handleDeleteProduct = (id) => {
     // console.log("delete this product", id);
     const { products } = this.state;
