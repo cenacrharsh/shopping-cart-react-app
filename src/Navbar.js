@@ -35,8 +35,8 @@ const styles = {
     borderRadius: "50%",
     padding: "4px 8px",
     position: "absolute",
-    right: 0,
-    top: -9,
+    right: 4,
+    top: 2,
   },
 };
 
