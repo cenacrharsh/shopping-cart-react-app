@@ -1,1 +1,1 @@
-## [demo] (https://cenacrharsh.github.io/shopping-cart-react-app/)
+## [demo](https://cenacrharsh.github.io/shopping-cart-react-app/)
